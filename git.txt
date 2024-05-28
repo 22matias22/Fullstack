@@ -1,4 +1,4 @@
-1. git init --> inica un repositorio logcal (copia todo lo que tengo en el directorio donde lo incio)
+1. git init --> inica un repositorio logcal, una sola vez (copia todo lo que tengo en el directorio donde lo incio)
 
 2. U --> sin seguimiento: no estan guartdados en el repertorio local
 
@@ -10,3 +10,11 @@
 4. A --> archivo agragado al repositorio local
 
 5. M --> el archivo fue modificado, pero no guardado
+
+6. git commit  --> embalar el paquete de archivos para enviarlo
+
+    -m --> comentar o describir la tarea realizada
+
+    - Ej: git commmit -m "SAaludos"
+
+7. Si tocamos algo, volvemos a iniciar, menos el numero 1.

@@ -6,3 +6,7 @@ selector{
 /* 16px por defoult */
 p{font-size: 35px;
 color: saddlebrown}
+
+div{
+    color: blue;
+}
